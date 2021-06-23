@@ -1,4 +1,4 @@
-h2 align="center"> Hello World!  :love_you_gesture: </h2>
+<h2 align="center"> Hello World!  :love_you_gesture: </h2>
 <h4 align="center"> I'm Rodrigo Sanchez Donato and I'm a software engineer. I'm from Brazil, living in Boston, Massachusetts </h4>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
